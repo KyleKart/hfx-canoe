@@ -1,0 +1,36 @@
+.topNav {
+    background-color: #2a5196;
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    height: 55px;
+  }
+  .hamMen {
+    background-color: #2a5196;
+    border: none;
+
+  }
+  .hamMen img {
+    padding-left: 1rem;
+    height: 30px;
+    width: 30px;
+    padding-top: 5px;
+  }
+  .CaK {
+    color: #ffffff;
+    font-family: sans-serif;
+    text-align: center;
+    position:relative;
+    top: 5px;
+    font-size: 20px;
+  }
+  .canoe {
+    height: 500px;
+    width: 1000px;
+    position:relative;
+    left: 150px;
+  }
+  .logo{
+    padding-right: 1rem;
+    padding-top: 5px;
+  }
